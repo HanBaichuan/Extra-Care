@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: ccf82901c9c039027acab6cbf70c7850
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7584321620855369780
+    second: Cloths_0
+  - first:
+      213: 6633646398562543154
+    second: Cloths_1
+  - first:
+      213: 1030150097540910467
+    second: Cloths_2
+  - first:
+      213: 3445082154747143513
+    second: Cloths_3
+  - first:
+      213: 6769256386688915550
+    second: Cloths_4
+  - first:
+      213: -6638628031525721406
+    second: Cloths_5
+  - first:
+      213: 1504024239486930619
+    second: Cloths_6
+  - first:
+      213: -139207402826732545
+    second: Cloths_7
+  - first:
+      213: 6477231693171620304
+    second: Cloths_8
+  - first:
+      213: 1063763856807007397
+    second: Cloths_9
+  - first:
+      213: -8499713690310158717
+    second: Cloths_10
+  - first:
+      213: 3701220674377110370
+    second: Cloths_11
+  - first:
+      213: 5699598459472033866
+    second: Cloths_12
+  - first:
+      213: 6489883452045443298
+    second: Cloths_13
+  - first:
+      213: -8900143223052057226
+    second: Cloths_14
+  - first:
+      213: 942940839555868416
+    second: Cloths_15
+  - first:
+      213: -3847977936064749549
+    second: Cloths_16
+  - first:
+      213: -8648798354831371364
+    second: Cloths_17
+  - first:
+      213: 1613861352424155915
+    second: Cloths_18
+  - first:
+      213: -8241963458406641584
+    second: Cloths_19
+  - first:
+      213: -8281169631738208042
+    second: Cloths_20
+  - first:
+      213: -4804064770548001945
+    second: Cloths_21
+  - first:
+      213: 8854889429137038128
+    second: Cloths_22
+  - first:
+      213: 167426123547667107
+    second: Cloths_23
+  - first:
+      213: -1795969321645205756
+    second: Cloths_24
+  - first:
+      213: 5635603418492487910
+    second: Cloths_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloths_0
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 773
+        width: 241
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5632529, y: 0.37216735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfc9965ba31fb690800000000000000
+      internalID: -7584321620855369780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 871
+        width: 195
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4131401, y: 0.5289515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236aedfb0427f0c50800000000000000
+      internalID: 6633646398562543154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 543
+        width: 258
+        height: 326
+      alignment: 9
+      pivot: {x: 0.5131299, y: 0.879279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d82454e04db4e00800000000000000
+      internalID: 1030150097540910467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 536
+        width: 235
+        height: 105
+      alignment: 9
+      pivot: {x: 0.36609745, y: 0.41437525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955adb787f36fcf20800000000000000
+      internalID: 3445082154747143513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 653
+        width: 245
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58132291da31fd50800000000000000
+      internalID: 6769256386688915550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 382
+        width: 210
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5535153, y: 0.67289746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca65f07afaded3a0800000000000000
+      internalID: -6638628031525721406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_6
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 208
+        width: 249
+        height: 153
+      alignment: 9
+      pivot: {x: 0.52708024, y: 1.8956023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe0230c31e5fd410800000000000000
+      internalID: 1504024239486930619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 299
+        width: 287
+        height: 224
+      alignment: 9
+      pivot: {x: 0.57081974, y: 0.8100191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb686cca9f611ef0800000000000000
+      internalID: -139207402826732545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 284
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9756738efb3e950800000000000000
+      internalID: 6477231693171620304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 213
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a491e9779f33ce00800000000000000
+      internalID: 1063763856807007397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 224
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386d98c9e63fa0a80800000000000000
+      internalID: -8499713690310158717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 255
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.584096, y: 0.86441386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263549be7906d5330800000000000000
+      internalID: 3701220674377110370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 323
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b133e99a091f40800000000000000
+      internalID: 5699598459472033866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloths_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 204
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0cad06d92b01a50800000000000000
+      internalID: 6489883452045443298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
